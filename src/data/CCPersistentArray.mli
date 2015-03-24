@@ -23,8 +23,10 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 *)
 
-
 (** {1 Persistent Arrays}
+
+Implementation follows from Jean-christophe filiâtre
+{ {: persistent arrays} https://www.lri.fr/~filliatr/puf/ }.
 
 @since NEXT_RELEASE *)
 
